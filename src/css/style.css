@@ -1,0 +1,40 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+
+
+/*.card{
+
+    background-image: url("https://animesher.com/orig/1/189/1896/18964/animesher.com_pastel-gif-sky-1896407.gif");
+    background-image: url("https://media.tenor.com/uB8rQEtcJDYAAAAC/weather-time.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}*/
+
+
+
+
+.card input{
+    width:50%;
+    margin: auto;
+    margin-top:20px;
+    border-radius: 20px;
+    padding:5px;
+    border-style: none;
+    text-align: center;
+    outline-style: none;
+    
+    
+
+
+}
+h3{
+    color:white;
+}
+
+
